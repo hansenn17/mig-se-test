@@ -1,0 +1,6 @@
+.env
+.flaskenv
+migrations/README
+src/__pycache__
+src/model/__pycache__
+migrations/__pycache__
